@@ -152,7 +152,7 @@
     },
     {
       "id": "nuggets",
-      "imagePath": "assets/img/foods/chocpop.png",
+      "imagePath": "assets/img/foods/nuggets.png",
       "name": "Nuggets",
       "description": "Saboroso nuggets de frango.",
       "price": 24.5,
@@ -160,7 +160,7 @@
     },
     {
       "id": "chicken-crispy-strips",
-      "imagePath": "assets/img/foods/icestd.png",
+      "imagePath": "assets/img/foods/crispy.png",
       "name": "Chicken Crispy Strips",
       "description": "Deliciosas tiras de frango crocrantes, acompanha molho a sua escolha.",
       "price": 30.5,
@@ -200,7 +200,7 @@
     },
     {
       "id": "bacon",
-      "imagePath": "assets/img/foods/bacon.png",
+      "imagePath": "assets/img/foods/pizzabacon.png",
       "name": "BaconTOP",
       "description": "Tiras de bacon suculentas para deixar sua pizza ainda melhor",
       "price": 50.0,
@@ -219,7 +219,7 @@
       "name": "Aline",
       "date": "2016-12-12T18:25:43",
       "rating": 3,
-      "comments": "NÃO recomendo. O recheio é só um creme, não tem camarão e nem carne",
+      "comments": "NÃO recomendo.",
       "restaurantId": "burger-spot"
     },
     {
@@ -240,21 +240,21 @@
       "name": "Daniela",
       "date": "2017-01-23T18:25:43",
       "rating": 4,
-      "comments": "Sanduíche muito bom! Já pedi diversas vezes sempre bom!",
+      "comments": "Carne muito boa! Já pedi diversas vezes sempre bom!",
       "restaurantId": "grills-barbecue-and-bar"
     },
     {
       "name": "Laila",
       "date": "2017-02-02T18:25:43",
       "rating": 5,
-      "comments": "Melhor hambúrguer que já provei. Vai ser difícil voltar para mc e bk",
+      "comments": "Melhor beef que já provei. Vai ser difícil voltar para outro restaurante",
       "restaurantId": "grills-barbecue-and-bar"
     },
     {
       "name": "Suzana",
       "date": "2016-12-12T18:25:43",
       "rating": 3.5,
-      "comments": "Meu sanduíche chegou frio e todo desmontado =\\",
+      "comments": "Meu prato chegou frio e todo desmontado =\\",
       "restaurantId": "grills-barbecue-and-bar"
     },
     {
@@ -268,7 +268,7 @@
       "name": "Amanda",
       "date": "2017-02-02T18:25:43",
       "rating": 2.5,
-      "comments": "Demorou muito e o café veio gelado",
+      "comments": "Demorou muito e o frango veio gelado",
       "restaurantId": "hotchicken"
     },
     {
@@ -366,7 +366,7 @@
       "name": "Marília",
       "date": "2016-12-20T18:25:43",
       "rating": 4.5,
-      "comments": "Taxa de entrega bastante elevada e precisa colocar no app se a pessoa quer porção adicional de algo (calda, crocante etc)",
+      "comments": "Taxa de entrega bastante elevada e precisa colocar",
       "restaurantId": "pizza-time"
     }
   ],
